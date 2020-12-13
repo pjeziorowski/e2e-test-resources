@@ -4,4 +4,4 @@ application:
 databases:
   - type: redis
     version: 6
-    name: e2e-redis
+    name: e2e-mongodb
