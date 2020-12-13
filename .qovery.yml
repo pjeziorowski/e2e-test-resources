@@ -2,6 +2,6 @@ application:
   name: httpbin
   project: ${RANDOM_STR_PLACEHOLDER}
 databases:
-  - type: redis
-    version: 6
-    name: e2e-redis
+- type: redis
+  version: 6
+  name: e2e-redis
