@@ -1,6 +1,7 @@
 application:
   name: httpbin
   project: ${RANDOM_STR_PLACEHOLDER}
+  organization: QoveryTest
 databases:
 - type: redis
   version: 6
