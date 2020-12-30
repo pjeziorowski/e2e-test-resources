@@ -3,6 +3,6 @@ application:
   project: ${RANDOM_STR_PLACEHOLDER}
   organization: QoveryTest
 databases:
-- type: redis
-  version: 6
+- type: mongodb
+  version: 4
   name: e2e-mongodb
