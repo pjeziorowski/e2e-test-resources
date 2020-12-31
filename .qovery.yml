@@ -2,7 +2,7 @@ application:
   name: httpbin
   project: ${RANDOM_STR_PLACEHOLDER}
   publicly_accessible: true
-  organization: QoveryTest
+  organization: ${ORG_NAME_PLACEHOLDER}
 routers:
   - name: main
     routes:
